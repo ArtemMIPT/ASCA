@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=c99 -Ofast -DNDEBUG   CMakeFiles/tester.dir/test/test.c.o  -o out/tester -rdynamic out/libmappedfile.a 

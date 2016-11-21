@@ -1,0 +1,2 @@
+/usr/bin/ar qc out/libmappedfile.a  CMakeFiles/mappedfile.dir/chunkmanager.c.o CMakeFiles/mappedfile.dir/hash_table.c.o CMakeFiles/mappedfile.dir/lists.c.o CMakeFiles/mappedfile.dir/logger.c.o CMakeFiles/mappedfile.dir/mapped_file.c.o
+/usr/bin/ranlib out/libmappedfile.a

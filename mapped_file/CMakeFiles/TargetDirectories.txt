@@ -1,0 +1,4 @@
+/home/artem/StaticAnalyser/acroparallels2016/apotapov/mapped_file/CMakeFiles/rebuild_cache.dir
+/home/artem/StaticAnalyser/acroparallels2016/apotapov/mapped_file/CMakeFiles/tester.dir
+/home/artem/StaticAnalyser/acroparallels2016/apotapov/mapped_file/CMakeFiles/edit_cache.dir
+/home/artem/StaticAnalyser/acroparallels2016/apotapov/mapped_file/CMakeFiles/mappedfile.dir
